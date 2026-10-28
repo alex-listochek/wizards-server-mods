@@ -38,7 +38,7 @@ args = [
 [window]
 width = 1280
 height = 720
-fullscreen = true
+fullscreen = false
 
 # Настройки самой игры (game/options.txt), которые лаунчер выставляет перед
 # каждым запуском. Остальные настройки игрок меняет в игре как обычно.
